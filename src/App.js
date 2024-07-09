@@ -79,7 +79,7 @@ function App() {
   </div>
 </nav>
 
-      <section class="hero is-link is-fullheight-with-navbar">
+      <section class="hero is-link is-fullheight-with-navbar" style={{background: 'hsl(var(--bulma-hero-h),var(--bulma-hero-s),var(--bulma-hero-background-l))'}}>
         <div class="hero-body">
           <p class="title">Fullheight hero with navbar</p>
         </div>
